@@ -6,5 +6,5 @@
 💬 Feel free to reach out to me if you would like to collaborate on a project or discuss technology. I would love to hear from you!
 
 * [LinkedIn](https://www.linkedin.com/in/alexei-rusu-dev/)
-* Email -rusualexei1995@gmail.com
+* Email: rusualexei1995@gmail.com
 
