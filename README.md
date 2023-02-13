@@ -10,4 +10,3 @@
 * [LinkedIn](https://www.linkedin.com/in/alexei-rusu-dev/)
 * Email: rusualexei1995@gmail.com
 
-<iframe src="https://giphy.com/embed/l0HlTy9x8FZo0XO1i" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/loop-hot-fire-l0HlTy9x8FZo0XO1i">via GIPHY</a></p>
