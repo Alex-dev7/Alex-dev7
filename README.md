@@ -7,7 +7,7 @@ I am currently a student at General Assembly, where I am honing my skills as a s
 💬 Feel free to reach out to me if you would like to collaborate on a project or discuss technology. I would love to hear from you!
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexei-rusu-dev/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexei-rusu-dev/)<br/> 
 Email: rusualexei1995@gmail.com
 
 # 💻 Tech Stack:
@@ -17,8 +17,6 @@ Email: rusualexei1995@gmail.com
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Alex-dev7&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-dev7&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Alex-dev7&icon=0&color=3)](https://visitcount.itsvg.in)
