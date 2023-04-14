@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-I am currently a student at General Assembly, where I am honing my skills as a software engineer. With a passion for technology and a love for learning, I am always seeking out new challenges and opportunities to expand my knowledge and improve my abilities.
+I am a software engineer with a passion for technology and a love for learning, I am always seeking out new challenges and opportunities to expand my knowledge and improve my abilities.
 
 
 ## 🌐 Socials:
