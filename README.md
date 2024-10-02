@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-![banner](https://media.licdn.com/dms/image/D4E16AQFbSZWDmo5-cw/profile-displaybackgroundimage-shrink_350_1400/0/1705274841643?e=1718841600&v=beta&t=TP1ynKTbC636Q61ViGOws6mgTEZUulHZmDbU3Tuf2bc)
+![banner](https://media.licdn.com/dms/image/v2/D4E16AQFbSZWDmo5-cw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1705274841643?e=1733356800&v=beta&t=zyjOZ5ibrix8PDnRMG1RAGI6nacxI_EPK-BsyC0PZvk)
 
 ### 💫 About Me:
 I am a **Software Engineer** with a passion for **technology** and a love for **learning**.
