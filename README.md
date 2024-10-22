@@ -1,5 +1,5 @@
 
-![banner](https://media.licdn.com/dms/image/v2/D4E16AQFbSZWDmo5-cw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1705274841643?e=1733356800&v=beta&t=zyjOZ5ibrix8PDnRMG1RAGI6nacxI_EPK-BsyC0PZvk)
+![banner](https://i.imgur.com/t6uKHFQ.png)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=29&pause=1000&color=07F768&center=true&vCenter=true&width=265&height=30&lines=Hi%2C+My+name+is+Alex+)](https://git.io/typing-svg)\
 I am a **Software Engineer** with a passion for **technology** and a love for **learning**.
