@@ -1,11 +1,6 @@
 
 ![banner](https://i.imgur.com/t6uKHFQ.png)
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EBF752&background=06131D&center=true&vCenter=true&width=435&lines=.%2C+.+.+.+." alt="Typing SVG" />
-  </a>
-</p>
 
 I am a **Software Engineer** with a passion for **technology** and a love for **learning**.
 Feel free to reach out if you have any questions, want to collaborate on a project, or just want to chat about technology. I'm always open to connecting with fellow tech enthusiasts and exploring new opportunities.
