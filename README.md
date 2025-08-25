@@ -1,47 +1,12 @@
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+<br><br>
 
-![banner](https://i.imgur.com/t6uKHFQ.png)
 
 
 I am a **Software Engineer** with a passion for **technology** and a love for **learning**.
-Feel free to reach out if you have any questions, want to collaborate on a project, or just want to chat about technology. I'm always open to connecting with fellow tech enthusiasts and exploring new opportunities.
+Feel free to reach out if you have any questions, want to collaborate on a project, or just want to chat about tech. I'm always open to connecting with fellow tech enthusiasts and exploring new opportunities.
 
 *My love for programming extends beyond coding; it's about problem-solving and building cool stuff.*
-
-### Skills
-<details>
-   <summary>Click to expand Skills!</summary>
-     
-#### Front End
-- HTML5
-- CSS3
-  * Sass
-  * Tailwind
-  * Bootstrap
-- JavaScript
-  - TypeScript
-  - React
-  - React Native
-  - Vite
-  - Redux
-  - Next.js
-#### Back End
-- JavaScript
-  - TypeScript
-  - Node
-  - Express
-- Python
-  - Django
-  - Flask
-  - FastAPI
-- MongoDB
-- PostgreSQL
-#### Other
-   - Docker
-   - Figma
-</details>
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nextjs,py,prisma,nodejs,mongodb,ai,flask,fastapi,django,express,ts,vite,docker,bootstrap,tailwind,figma)](https://skillicons.dev)
-
 
 
 ### 📫 How to reach me:
